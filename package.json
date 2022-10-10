@@ -55,6 +55,6 @@
     "rollup-plugin-peer-deps-external": "^2.2.4"
   },
   "peerDependencies": {
-    "react": "^0.13.0 || ^0.14.0 || ^15.0.0 || ^16"
+    "react": "^0.13.0 || ^0.14.0 || ^15.0.0 || ^16 || ^17 || ^18"
   }
 }
